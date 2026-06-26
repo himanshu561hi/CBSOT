@@ -31,11 +31,11 @@
 
 | | |
 |:--|:--|
-| **👤 Name** | Himanshu |
-| **🏫 University** | *[Your University Name]* |
-| **📚 Program** | *[B.Tech / MCA / BSc CS]* |
-| **📅 Year / Semester** | *[e.g. 3rd Year, Sem 6]* |
-| **🆔 Enrollment No.** | *[Your Roll / Enrollment No.]* |
+| **👤 Name** | Himanshu Gupta |
+| **🏫 University** | *Dr. APJ Abdul Kalam Technical University* |
+| **📚 Program** | *B.Tech* |
+| **📅 Year / Semester** | *4th Year, Sem 7* |
+| **🆔 Enrollment No.** | *[2302200100054* |
 
 </td><td>
 
@@ -43,10 +43,9 @@
 
 | | |
 |:--|:--|
-| **🏢 Organization** | *[Company / Institute Name]* |
-| **👨‍💼 Mentor / Guide** | *[Mentor Name]* |
+| **🏢 Organization** | *Coding Blocks of Technology* |
+| **👨‍💼 Mentor / Guide** | *Coding Blocks of Technology* |
 | **📌 Domain** | Machine Learning · Healthcare AI |
-| **🗓️ Duration** | *[Start Date]* → *[End Date]* |
 | **📍 Mode** | Remote / Offline |
 
 </td></tr>
