@@ -649,7 +649,7 @@ whose tools made this entire pipeline possible.
 
 *Built with ❤️ during Machine Learning Internship*
 
-**Himanshu · 2025**
+**Himanshu**
 
 <br/>
 
